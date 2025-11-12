@@ -110,7 +110,7 @@ app/
 
 ## 👥 **Developed By**
 
-* **Rachabattuni Sai Sindhu**
-    MCA (AI/ML), Jain (Deemed-to-be University)
-  *Project: ShiftCare – Hospital Shift Management App*
+**Rachabattuni Sai Sindhu**
+MCA, Jain (Deemed-to-be University)
+Project: ShiftCare – Hospital Shift Management App
 
