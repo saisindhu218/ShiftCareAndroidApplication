@@ -1,7 +1,3 @@
-Perfect 👍 You want a **single, refined README** — short, clean, and professional — that gives a **complete overview** of your project *ShiftCare* at one glance.
-Here’s a **simplified and effective version** merging all three drafts — ideal for your GitHub repository 👇
-
----
 
 # 🩺 **ShiftCare – Hospital Shift Management App**
 
@@ -62,7 +58,7 @@ The goal is to ensure **continuous patient care, reduced miscommunication, and f
 
 | Home                          | Shifts                            | Swap                          | Analytics                               | Profile                             |
 | ----------------------------- | --------------------------------- | ----------------------------- | --------------------------------------- | ----------------------------------- |
-| ![Home](screenshots/home.png) | ![Shifts](screenshots/shifts.png) | ![Swap](screenshots/swap.png) | ![Analytics](screenshots/analytics.png) | ![Profile](screenshots/profile.png) |
+| ![Image](https://github.com/user-attachments/assets/cd6ce3bf-e6e2-4320-88c1-4ac1aba92fbe) | ![Image](https://github.com/user-attachments/assets/bd4c9f32-fc51-4a0e-8b14-da69cf0a2a72) | ![Image](https://github.com/user-attachments/assets/cb0ba252-ccb7-46f5-8090-1b77510afe99) | ![Image](https://github.com/user-attachments/assets/99465846-3a2c-4c38-833d-1d19b3e62eff) | ![Image](https://github.com/user-attachments/assets/99465846-3a2c-4c38-833d-1d19b3e62eff) |
 
 ---
 
@@ -115,9 +111,6 @@ app/
 ## 👥 **Developed By**
 
 * **Rachabattuni Sai Sindhu**
-  MCA (AI/ML), Jain (Deemed-to-be University)
+    MCA (AI/ML), Jain (Deemed-to-be University)
   *Project: ShiftCare – Hospital Shift Management App*
 
-
-
-Would you like me to make a **compact version** (1-page GitHub preview style) as well — ideal if your sir wants a shorter README on the main repo view?
