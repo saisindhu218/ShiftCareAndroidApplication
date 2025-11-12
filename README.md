@@ -19,7 +19,7 @@
 It helps doctors manage duty timings, request swaps with colleagues, and track attendance and workload — all in one place.
 The goal is to ensure **continuous patient care, reduced miscommunication, and fair workload distribution** among hospital staff.
 
----
+
 
 ## ✨ **Key Features**
 
@@ -30,7 +30,7 @@ The goal is to ensure **continuous patient care, reduced miscommunication, and f
 * **👤 Profile Management:** Manage personal info, specialization, and shift history.
 * **🧠 Admin Controls:** Admins can assign shifts, approve swaps, and monitor workload.
 
----
+
 
 ## 🧩 **Modules**
 
@@ -40,7 +40,7 @@ The goal is to ensure **continuous patient care, reduced miscommunication, and f
 4. **Analytics & Attendance** – View statistics and performance metrics.
 5. **Profile** – Manage doctor and admin details.
 
----
+
 
 ## 🛠️ **Tech Stack**
 
@@ -81,7 +81,7 @@ The goal is to ensure **continuous patient care, reduced miscommunication, and f
 2. Open in **Android Studio**.
 3. Build and run the project on an emulator or device.
 
----
+
 
 ## 📁 **Project Structure**
 
@@ -96,7 +96,7 @@ app/
 └── util/                # Helper utilities
 ```
 
----
+
 
 ## 🎯 **Future Enhancements**
 
@@ -106,7 +106,7 @@ app/
 * 🌏 Multi-language interface
 * 📊 Admin dashboard web version
 
----
+
 
 ## 👥 **Developed By**
 
