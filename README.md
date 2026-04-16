@@ -1,5 +1,5 @@
 
-# 🩺 **ShiftCare – Hospital Shift Management App**
+#  **ShiftCare – Hospital Shift Management App**
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 **Overview**
+##  **Overview**
 
 **ShiftCare** is a mobile application designed to simplify **doctor shift scheduling and swapping** in hospitals.
 It helps doctors manage duty timings, request swaps with colleagues, and track attendance and workload — all in one place.
@@ -21,18 +21,18 @@ The goal is to ensure **continuous patient care, reduced miscommunication, and f
 
 
 
-## ✨ **Key Features**
+##  **Key Features**
 
-* **📅 Shift Management:** View, manage, and update daily work schedules.
-* **🔄 Shift Swapping:** Request and accept shift exchanges with other doctors instantly.
-* **📊 Analytics Dashboard:** Track hours worked, swap statistics, and attendance history.
-* **🔔 Smart Notifications:** Get real-time alerts for shift changes, approvals, and emergencies.
-* **👤 Profile Management:** Manage personal info, specialization, and shift history.
-* **🧠 Admin Controls:** Admins can assign shifts, approve swaps, and monitor workload.
+* ** Shift Management:** View, manage, and update daily work schedules.
+* ** Shift Swapping:** Request and accept shift exchanges with other doctors instantly.
+* ** Analytics Dashboard:** Track hours worked, swap statistics, and attendance history.
+* ** Smart Notifications:** Get real-time alerts for shift changes, approvals, and emergencies.
+* ** Profile Management:** Manage personal info, specialization, and shift history.
+* ** Admin Controls:** Admins can assign shifts, approve swaps, and monitor workload.
 
 
 
-## 🧩 **Modules**
+##  **Modules**
 
 1. **Home/Dashboard** – Overview of today’s and next shifts, quick actions, and alerts.
 2. **Shift Management** – Full weekly/monthly schedule view.
@@ -42,7 +42,7 @@ The goal is to ensure **continuous patient care, reduced miscommunication, and f
 
 
 
-## 🛠️ **Tech Stack**
+##  **Tech Stack**
 
 * **Language:** Kotlin
 * **Architecture:** MVVM (Model-View-ViewModel)
@@ -54,7 +54,7 @@ The goal is to ensure **continuous patient care, reduced miscommunication, and f
 
 ---
 
-## 📱 **App Layout**
+##  **App Layout**
 
 | Home                          | Shifts                            | Swap                          | Analytics                               | Profile                             |
 | ----------------------------- | --------------------------------- | ----------------------------- | --------------------------------------- | ----------------------------------- |
@@ -62,7 +62,7 @@ The goal is to ensure **continuous patient care, reduced miscommunication, and f
 
 ---
 
-## 🚀 **Getting Started**
+##  **Getting Started**
 
 ### **Prerequisites**
 
@@ -83,7 +83,7 @@ The goal is to ensure **continuous patient care, reduced miscommunication, and f
 
 
 
-## 📁 **Project Structure**
+##  **Project Structure**
 
 ```
 app/
@@ -98,17 +98,17 @@ app/
 
 
 
-## 🎯 **Future Enhancements**
+##  **Future Enhancements**
 
-* 🔔 Real-time push notifications (Firebase)
-* 🌐 Backend integration with hospital APIs
-* 🌙 Dark mode support
-* 🌏 Multi-language interface
-* 📊 Admin dashboard web version
+*  Real-time push notifications (Firebase)
+*  Backend integration with hospital APIs
+*  Dark mode support
+*  Multi-language interface
+*  Admin dashboard web version
 
 
 
-## 👥 **Developed By**
+##  **Developed By**
 
 * **Rachabattuni Sai Sindhu**
 * MCA, Jain (Deemed-to-be University)
